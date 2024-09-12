@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemigo IA.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\Curar.cs" />
     <Compile Include="Assets\Scripts\Autosalto.cs" />
     <Compile Include="Assets\Scripts\Vida.cs" />
     <Compile Include="Assets\Scripts\Herir.cs" />
