@@ -62,11 +62,17 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Enemigo IA.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\Spawners\GenerarObjeto.cs" />
     <Compile Include="Assets\Scripts\Curar.cs" />
+    <Compile Include="Assets\Scripts\Spawners\JefeFinal.cs" />
     <Compile Include="Assets\Scripts\Autosalto.cs" />
+    <Compile Include="Assets\Scripts\Spawners\GeneradorObjetoLoop.cs" />
     <Compile Include="Assets\Scripts\Vida.cs" />
+    <Compile Include="Assets\Scripts\Spawners\GeneradorObjetoAleatorio.cs" />
+    <Compile Include="Assets\Scripts\Spawners\GeneradorDiaNoche.cs" />
     <Compile Include="Assets\Scripts\Herir.cs" />
     <Compile Include="Assets\Scripts\Saltar.cs" />
+    <Compile Include="Assets\Scripts\AutoMove.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
