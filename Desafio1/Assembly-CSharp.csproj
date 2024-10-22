@@ -60,18 +60,22 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.42f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Jugador\Coleccionar.cs" />
     <Compile Include="Assets\Scripts\Enemigo IA.cs" />
-    <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\Jugador\Puzzle.cs" />
     <Compile Include="Assets\Scripts\Spawners\GenerarObjeto.cs" />
+    <Compile Include="Assets\Scripts\Jugador\Saltar.cs" />
+    <Compile Include="Assets\Scripts\Jugador\Mover.cs" />
     <Compile Include="Assets\Scripts\Curar.cs" />
     <Compile Include="Assets\Scripts\Spawners\JefeFinal.cs" />
     <Compile Include="Assets\Scripts\Autosalto.cs" />
+    <Compile Include="Assets\Scripts\Jugador\Progresion.cs" />
     <Compile Include="Assets\Scripts\Spawners\GeneradorObjetoLoop.cs" />
+    <Compile Include="Assets\Scripts\Jugador\PerfilJugador.cs" />
     <Compile Include="Assets\Scripts\Vida.cs" />
     <Compile Include="Assets\Scripts\Spawners\GeneradorObjetoAleatorio.cs" />
     <Compile Include="Assets\Scripts\Spawners\GeneradorDiaNoche.cs" />
     <Compile Include="Assets\Scripts\Herir.cs" />
-    <Compile Include="Assets\Scripts\Saltar.cs" />
     <Compile Include="Assets\Scripts\AutoMove.cs" />
   </ItemGroup>
   <ItemGroup>
